@@ -1,0 +1,12 @@
+a. initialize
+b. Working Area 
+c. Staging area
+
+
+1. First we have to initialize the git 
+        -> git init
+        -> Kepp track of all changes in the file.
+2. We can check status 
+        -> git status 
+3. Add the file to stagin areas
+        -> git add index.html
