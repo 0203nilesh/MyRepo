@@ -17,3 +17,9 @@ c. Staging area
 6. Create a new branch
         -> git branch test (create a branch)
         -> git checkout test (switch branch);
+        -> Change we are making on another branch will not hamper the code of the other branch.
+        -> Either new file new code anything we have done in other branch will not affect other.
+7. Merge branches 
+        -> Testing the changes and satisfied with the output then we can merger them.
+        -> The test branch should be clear and not have anything to commit.
+        -> git merge test ( callt this from the master)
