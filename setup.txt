@@ -14,3 +14,6 @@ c. Staging area
         -> git commit -m "message to commit" 
 5. Combine commit and add
         -> git add commit.
+6. Create a new branch
+        -> git branch test (create a branch)
+        -> git checkout test (switch branch);
