@@ -12,3 +12,5 @@ c. Staging area
         -> git add index.html ( Symbol is A)
 4. Commit to the repository (no Symbol here)
         -> git commit -m "message to commit" 
+5. Combine commit and add
+        -> git add commit.
