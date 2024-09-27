@@ -7,6 +7,8 @@ c. Staging area
         -> git init
         -> Kepp track of all changes in the file.
 2. We can check status 
-        -> git status 
+        -> git status  ( Symbol is U )
 3. Add the file to stagin areas
-        -> git add index.html
+        -> git add index.html ( Symbol is A)
+4. Commit to the repository (no Symbol here)
+        -> git commit -m "message to commit" 
