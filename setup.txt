@@ -23,3 +23,14 @@ c. Staging area
         -> Testing the changes and satisfied with the output then we can merger them.
         -> The test branch should be clear and not have anything to commit.
         -> git merge test ( callt this from the master)
+8. Delete the branch:-
+        -> git branch -d test  
+9. See all the branches
+        -> git branch ( to see all the branches);
+
+10. Working with online repository
+        -> add this local to the remote repository, made connection between this and our local repository
+                (git remote add origin git@github.com:0203nilesh/MyRepo.git) use this command from browser to add
+        -> Push the content to remote repository
+                (git push -u origin master) push to upstream and from the branch (main) change if master
+        -> git pull origin ( to fetch all changes from the remote to the local repository);
