@@ -34,3 +34,4 @@ c. Staging area
         -> Push the content to remote repository
                 (git push -u origin master) push to upstream and from the branch (main) change if master
         -> git pull origin ( to fetch all changes from the remote to the local repository);
+        
